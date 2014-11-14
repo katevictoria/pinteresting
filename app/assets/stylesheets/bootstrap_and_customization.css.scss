@@ -1,7 +1,10 @@
-$body-bg:	rgb(155, 89, 182);
-$navbar-default-bg: rgb(52, 73, 94);
+@import url('http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css');
+
+$body-bg:	rgb(236, 240, 241);
+$font-family-sans-serif:	'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+$navbar-default-bg: rgb(142, 68, 173);
 $navbar-default-link-color:	white;
-$brand-primary:	rgb(52, 73, 94);
-$jumbotron-bg:	rgb(149, 165, 166);
+$brand-primary:	rgb(192, 57, 43);
+$jumbotron-bg:	rgb(189, 195, 199);
 
 @import 'bootstrap';
